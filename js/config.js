@@ -19,8 +19,8 @@ var respecConfig = {
   // subExplanation: "",
   addSectionLinks: true,
 
-  publishVersion: "2.0.2",
-  previousPublishVersion: "2.0.1",
+  publishVersion: "1.0",
+  previousPublishVersion: "1.0",
 
   // Als er een eerder gepubliceerde versie is, geef dan de datum daarvan op
   //previousPublishDate: "2017-05-31",
@@ -33,21 +33,21 @@ var respecConfig = {
   doJsonLd: true,
   editors: [
     {
-      name: "Pieter Hering",
+      name: "Peter Haasnoot",
       company: "Logius",
       companyURL: "http://www.logius.nl/",
     },
   ],
   authors: [
     {
-      name: "Pieter Hering",
+      name: "Peter Haasnoot",
       company: "Logius",
       companyURL: "http://www.logius.nl/",
     },
   ],
   // shortName = korte naam voor in de url van het document, gebruik alleen letters, cijfers en eventueel '-'
   // url van de github repository waar je in werkt
-  github: "https://github.com/Logius-standaarden/OIN-Stelsel",
+  github: "https://github.com/Logius-standaarden/respec-test",
 
 
   alternateFormats: [
@@ -75,7 +75,7 @@ var respecConfig = {
   // if not set, the url's will be generated on the respecConfig.github automatically  
   nl_github: {
     //    issueBase: "https://github.com/Logius-standaarden/Digikoppeling-Wat-is-Digikoppeling/issues",
-    revision: "https://github.com/Logius-standaarden/OIN-Stelsel",
+    revision: "https://github.com/Logius-standaarden/DEMO-Stelsel",
     //  pullrequests: "https://github.com/Logius-standaarden/Digikoppeling-Wat-is-Digikoppeling/pulls"
   },
 
