@@ -53,6 +53,13 @@ Verwerking:
 Uit:
 * Respec document in HTML formaat
 
+|In| Verwerking| Uit| 
+|---| ---|---| 
+| config bestand, content (in markdown), afbeeldingen/media       | conform parameters in config bestand & conform style en template configuratie  |  Respec document in HTML formaat | 
+
+
+
+
 ### Specifieke Functies
 
 Enkele specifieke functies van Respec:
