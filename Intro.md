@@ -21,7 +21,7 @@
 
 #### Voorbeeld Digikoppeling
 
-![Spec](media/DK_Specificatie_structuur.svg)
+![](media/DK_Specificatie_structuur.svg)
 
 #### Overige
 
