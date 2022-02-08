@@ -53,6 +53,7 @@ Verwerking:
 Uit:
 * Respec document in HTML formaat
 
+Weergegeven in tabel:
 |In| Verwerking| Uit| 
 |---| ---|---| 
 | config bestand, content (in markdown), afbeeldingen/media       | conform parameters in config bestand & conform style en template configuratie  |  Respec document in HTML formaat | 
@@ -88,7 +89,7 @@ Enkele specifieke functies van Respec:
   </pre>
 </aside>
 
-// #### External Includes
+<!-- #### External Includes --> 
 #### Conformance section
 
 Controle op keywords conform:
@@ -187,7 +188,9 @@ Tool voor het publiceren van specificatie documenten
 Explicit set of agreements and rules
 
 <dfn
-  data-lt="API|WEB API">
-  REST API
-</dfn>
-REST API (Representational State Transfer - Application Programming Interface)
+data-lt="API|WEB API|REST API">
+REST API</dfn>
+Representational State Transfer, Application Programming Interface)
+
+
+

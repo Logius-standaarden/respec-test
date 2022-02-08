@@ -7,7 +7,7 @@ var respecConfig = {
   // The specification's publish domain, which is used to publish the specification
   // the url in the header thisVersion is generated like `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<specStatus>-<specType.toLowerCase()>-<conf.shortName>}-conf.publishDate>/`
   pubDomain: "dk",
-  shortName: "oin",
+  shortName: "demo",
 
   // Voor publishDate zie https://github.com/w3c/respec/wiki/publishDate
   // Als er geen publishDate is opgegeven, genereert ReSpec de datum o.b.v. de laatste wijzigingen
