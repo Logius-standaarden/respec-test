@@ -100,8 +100,8 @@ var respecConfig = {
 
   // this url points to the folder where organsation specific css files are stored
   // defaults to https://tools.geostandaarden.nl/respec/style/ if not set
-  nl_organisationStylesURL: "https://publicatie.centrumvoorstandaarden.nl/respec/style/",
-  // nl_organisationStylesURL: "http://localhost:8081/respec/style/",
+   nl_organisationStylesURL: "https://publicatie.centrumvoorstandaarden.nl/respec/style/",
+  // nl_organisationStylesURL: "http://localhost:8081/style/",
 
   // nl_organisationPublishURL points to organisation specifica publication page, used in header
   // defaults to  https://docs.geostandaarden.nl/"
