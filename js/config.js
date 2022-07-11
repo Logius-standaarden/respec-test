@@ -1,7 +1,7 @@
 var respecConfig = {
-  //voor specStatus mogelijkheden zie https://github.com/centrumvoorstandaarden/respec/wiki/specStatus
+  //voor specStatus mogelijkheden zie https://github.com/Logius-standaarden/respec/wiki/specStatus
   specStatus: "DEF",
-  //voor specType mogelijkheden zie https://github.com/centrumvoorstandaarden/respec/wiki/specType
+  //voor specType mogelijkheden zie https://github.com/Logius-standaarden/respec/wiki/specType
   specType: "HR",
 
   // The specification's publish domain, which is used to publish the specification
